@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Attention"
+title = ""
 subtitle = ""
 
 [design]
@@ -26,14 +26,14 @@ subtitle = ""
   
   # Background gradient. 
   gradient_start = "#8B4513"
-  gradient_end = "#DAA520"
+  gradient_end = "#CD5C5C"
   
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["0px", "0", "10px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -43,4 +43,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<h4 align="center">This site is under construction</h4>
+<h4 align="center">&#9888; This site is under construction &#9888;</h4>

@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} - Md. Tahmid Hasan'
+    notice: '&#169; {year} - Md. Tahmid Hasan'
     license:
       enable: false
       allow_derivatives: false

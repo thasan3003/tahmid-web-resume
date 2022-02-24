@@ -16,13 +16,13 @@ content:
   autolink: false
   
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
   # Contact details (edit or remove options as required)
   email: tahmidhasan.3003@gmail.com
@@ -43,13 +43,13 @@ content:
   #  - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: Twitter
-      link: 'https://twitter.com/thasan3003'
+    # - icon: twitter
+    #   icon_pack: fab
+    #   name: Twitter
+    #   link: 'https://twitter.com/thasan3003'
     - icon: skype       # video
       icon_pack: fab    # fas
-      name: DM Me on Skype
+      name: tahmidhasan.3003
       link: 'skype:tahmidhasan.3003?chat'
     
 
