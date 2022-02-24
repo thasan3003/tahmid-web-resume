@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Student of M. Sc. Engg. in CSE'
+    twitter: 'thasan3003'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -41,18 +41,19 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} - Md. Tahmid Hasan'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Monday, 02 Jan 2006'
+  time_format: '15:04 MST'
   address_format: en-us
 
 # Site features
@@ -64,9 +65,9 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -74,7 +75,7 @@ features:
     content_dir: content
     branch: master
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
@@ -85,15 +86,18 @@ features:
       url: ''
   search:
     provider: wowchemy
+    # wowchemy:
+      # min_length: 1  # Only the matches whose length exceeds this value will be returned.
+      # threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'Mapbox'
     api_key: ''
-    zoom: 15
+    zoom: 16
 
 # Extensions
 
