@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Md. Tahmid Hasan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student of M. Sc. Engg. in CSE
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Khulna University of Engineering & Technology
+  url: https://www.kuet.ac.bd/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computer Vision, Deep Learning and Automation.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Machine Learning
+- Data Science
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: M. Sc. Engg. in CSE
+    institution: Khulna University of Engineering & Technology, Khulna-9203
+    year: ongoing
+  - course: B. Sc. Engg. in CSE
+    institution: Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj-8100
+    year: 2018
+  - course: HSC (Science)
+    institution: Carmichael College, Rangpur
+    year: 2014
+  - course: SSC (Science)
+    institution: Rupasi High School, Rangpur
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +45,29 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: "/#contact"       # or,'mailto:tahmidhasan.3003@gmail.com'
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/thasan3003
+- icon: github
+  icon_pack: fab
+  link: https://github.com/thasan3003
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Md-Tahmid-Hasan
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@thasan3003
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-1029-6365
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/thasan3003
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +77,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "tahmidhasan.3003@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Md. Tahmid Hasan is currently pursuing his M. Sc. Engg. degree in the discipline of Computer Science and Engineering at Khulna University of Engineering & Technology, Khulna-9203. His research interests include Computer Vision, Deep Learning and Automation. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
