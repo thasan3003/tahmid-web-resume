@@ -19,17 +19,20 @@ bio: My research interests include Computer Vision, Deep Learning and Automation
 # Interests to show in About widget
 interests:
 - Computer Vision
+- Deep Learning
 - Machine Learning
 - Data Science
+- Large Scale Data Management
+- Cloud Computing
 
 # Education to show in About widget
 education:
   courses:
   - course: M. Sc. Engg. in CSE
-    institution: Khulna University of Engineering & Technology, Khulna-9203
+    institution: Khulna University of Engineering & Technology, Khulna-9203, Bangladesh
     year: ongoing
   - course: B. Sc. Engg. in CSE
-    institution: Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj-8100
+    institution: Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj-8100, Bangladesh
     year: 2018
   - course: HSC (Science)
     institution: Carmichael College, Rangpur
@@ -83,8 +86,12 @@ email: "tahmidhasan.3003@gmail.com"
 highlight_name: true
 ---
 
-Md. Tahmid Hasan is currently serving as a **Lecturer** in the department of Computer Science and Engineering at Northern University of Business and Technology Khulna, Bangladesh. Now he is conducting **Discrete Mathematics** and **Database Management System** courses.
+Md. Tahmid Hasan is currently serving as a **Lecturer** in the Department of Computer Science and Engineering (CSE) at Northern University of Business and Technology Khulna (NUBTK), Khulna-9100, Bangladesh. His responsibilities include conducting classes and labs.
 
-Besides his job, he is also pursuing his **M. Sc. Engg.** degree in the discipline of Computer Science and Engineering at Khulna University of Engineering & Technology, Khulna-9203. His research interests include Computer Vision, Deep Learning and Automation. 
+Besides his job, he is also pursuing his **M. Sc. Engineering** degree in the Department of Computer Science and Engineering (CSE) at Khulna University of Engineering & Technology (KUET), Khulna-9203, Bangladesh. His current research topic is **Computer Vision**.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+His research interests include Computer Vision, Deep Learning and Automation. 
+
+Md. Tahmid Hasan was born in a small village in the Rangpur district of Bangladesh. He spent his childhood there. He moved to the city in 2012 after passing SSC from Rupasi High School. After passing HSC from Carmichael College in 2014, he was admitted to the Computer Science and Engineering Department at Bangabandhu Sheikh Mujibur Rahman Science and Technology University (BSMRSTU). He received his **B. Sc. Engineering** degree in 2018 from there. 
+
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.

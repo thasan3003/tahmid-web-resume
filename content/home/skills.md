@@ -17,14 +17,22 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
+  icon: clang
+  icon_pack: custom
+  name: C
+- description: 90%
   icon: python
   icon_pack: fab
   name: Python
+- description: 80%
+  icon: sql
+  icon_pack: custom
+  name: PL/SQL
 - description: 20%
   icon: r-project
   icon_pack: fab
   name: R
-- description: 80%
+- description: 60%
   icon: chart-line
   icon_pack: fas
   name: Statistics
