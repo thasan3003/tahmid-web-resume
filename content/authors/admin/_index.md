@@ -6,12 +6,12 @@ title: Md. Tahmid Hasan
 superuser: true
 
 # Role/position/tagline
-role: Student of M. Sc. Engg. in CSE
+role: Lecturer, CSE
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Khulna University of Engineering & Technology
-  url: https://www.kuet.ac.bd/
+- name: Northern University of Business and Technology Khulna
+  url: https://nubtkhulna.ac.bd/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computer Vision, Deep Learning and Automation.
@@ -83,6 +83,8 @@ email: "tahmidhasan.3003@gmail.com"
 highlight_name: true
 ---
 
-Md. Tahmid Hasan is currently pursuing his M. Sc. Engg. degree in the discipline of Computer Science and Engineering at Khulna University of Engineering & Technology, Khulna-9203. His research interests include Computer Vision, Deep Learning and Automation. 
+Md. Tahmid Hasan is currently serving as a **Lecturer** in the department of Computer Science and Engineering at Northern University of Business and Technology Khulna, Bangladesh. Now he is conducting **Discrete Mathematics** and **Database Management System** courses.
+
+Besides his job, he is also pursuing his **M. Sc. Engg.** degree in the discipline of Computer Science and Engineering at Khulna University of Engineering & Technology, Khulna-9203. His research interests include Computer Vision, Deep Learning and Automation. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
