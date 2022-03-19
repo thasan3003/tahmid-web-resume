@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: tahmidhasan.3003@gmail.com
-  phone: +880 1747 804726, +880 1521 440360
+  phone: +880 1747-804726, +880 1521-440360
   address:
     street: Amar Ekushey Hall, KUET
     city: Khulna
@@ -51,6 +51,10 @@ content:
       icon_pack: fab    # fas
       name: tahmidhasan.3003
       link: 'skype:tahmidhasan.3003?chat'
+    - icon: whatsapp       # video
+      icon_pack: fab    # fas
+      name: +880 1747-804726
+      link: 'https://wa.me/8801747804726'
     
 
 design:
