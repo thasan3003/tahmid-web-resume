@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/26ea1fc7b018a9d584f4f86b7e58c3cb10006247
+  date_end: "2024-11-10"
+  date_start: "2024-11-10"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Deep Learning for Images with PyTorch'
+  url: ""
 - certificate_url: https://coursera.org/share/d314e38e69559f2225e948088c7ad146
   date_end: ""
   date_start: "2022-01-30"

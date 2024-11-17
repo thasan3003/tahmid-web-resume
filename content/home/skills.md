@@ -24,14 +24,14 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 20%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 80%
-  icon: sql
-  icon_pack: custom
-  name: PL/SQL
+# - description: 20%
+#   icon: r-project
+#   icon_pack: fab
+#   name: R
+# - description: 80%
+#   icon: sql
+#   icon_pack: custom
+#   name: PL/SQL
 - description: 60%
   icon: chart-line
   icon_pack: fas

@@ -39,18 +39,33 @@ experience:
   #       * Modelling
   #       * Deploying
         
-  - title: Lecturer, CSE
+  - title: Senior Lecturer, Dept. of CSE
     company: Northern University of Business and Technology Khulna
     company_url: 'https://nubtkhulna.ac.bd/'
     company_logo: nubtk
     location: Khulna-9100, Bangladesh
-    date_start: '2022-03-15'
+    date_start: '2024-10-26'
     date_end: ''
     description:  |2-
         Responsibilities include:
         
         * Conducting Class and Lab
         * Research
+        * Mentoring Students
+        
+  - title: Lecturer, Dept. of CSE
+    company: Northern University of Business and Technology Khulna
+    company_url: 'https://nubtkhulna.ac.bd/'
+    company_logo: nubtk
+    location: Khulna-9100, Bangladesh
+    date_start: '2022-03-15'
+    date_end: '2024-10-25'
+    description:  |2-
+        Responsibilities include:
+        
+        * Conducting Class and Lab
+        * Research
+        * Mentoring Students
 
 design:
   columns: '2'

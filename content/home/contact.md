@@ -28,16 +28,16 @@ content:
   email: tahmidhasan.3003@gmail.com
   phone: +880 1747-804726, +880 1521-440360
   address:
-    street: Amar Ekushey Hall, KUET
+    street: Akunjee Tower, 41, 42 Majid Sarani
     city: Khulna
     region: Khulna
-    postcode: '9203'
+    postcode: '9100'
     country: Bangladesh
     country_code: BAN
   coordinates:
-    latitude: '22.8978182'
-    longitude: '89.5014229'
-  directions: Enter Amar Ekushey Hall and take the stairs to East PGR-4 on Floor 2
+    latitude: '22.822143257039727'
+    longitude: '89.55215849586511'
+  directions: Enter NUBTK and take the stairs to R#201 on Floor 2
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
